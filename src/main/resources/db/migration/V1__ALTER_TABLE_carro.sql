@@ -1,0 +1,1 @@
+Alter table carro add column preco_car decimal(15,2) default 0.00 comment 'Valor do preço por dia do carro'
